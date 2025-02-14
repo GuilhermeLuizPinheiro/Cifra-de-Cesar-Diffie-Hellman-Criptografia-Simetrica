@@ -25,7 +25,7 @@ Como Executar
 1. Configuração do Ambiente
 - Certifique-se de ter o Python instalado (versão 3.x recomendada).
 - Clone este repositório:
- git clone https://github.com/seu-usuario/seu-repositorio.git
+ git clone https://github.com/GuilhermeLuizPinheiro/N1---Atividade-Cifra-de-C-sar---Diffie-Hellman--Criptografia-Sim-trica-/
  cd seu-repositorio
 
 2. Executar o Servidor
